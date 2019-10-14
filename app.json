@@ -1,0 +1,19 @@
+{
+  "appKey": "bZ3ZYcLGviplbiUO7PVCZFoY9m41q8Na",
+  "appSecret": "eIk8CaSuCl2W7uHhyucM8g9QALuMTbR6",
+  "projectId": 104,
+  "id": 221,
+  "name": "env-test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Rihel/env-test.git",
+    "isPrivate": 0,
+    "username": "Rihel",
+    "password": "Dqshanshan0327"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
